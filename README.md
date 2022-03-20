@@ -1,3 +1,10 @@
+## Blockfunder
+Blockfunder is a fundraising platform built on the ethereum blockchain to raise funds for your needs and dreams, seamlessly and effortlessly.
+You can easily organize your fundraising campaign and share the link to your friends to donate Ethereum for the cause.
+
+### `Ganache`
+This Dapp still lies in production state, and as such you'd be needing the Ganache Local blockchain with a metamask wallet to test run this effectively.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
